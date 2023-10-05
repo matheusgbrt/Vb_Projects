@@ -1,0 +1,11 @@
+C:\Users\Inovea\source\repos\Interacao_Email\bin\Debug\Interacao_Email.exe.config
+C:\Users\Inovea\source\repos\Interacao_Email\bin\Debug\Interacao_Email.exe
+C:\Users\Inovea\source\repos\Interacao_Email\bin\Debug\Interacao_Email.pdb
+C:\Users\Inovea\source\repos\Interacao_Email\bin\Debug\Interacao_Email.xml
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.vbproj.AssemblyReference.cache
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.Resources.resources
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.vbproj.GenerateResource.cache
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.vbproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.exe
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.xml
+C:\Users\Inovea\source\repos\Interacao_Email\obj\Debug\Interacao_Email.pdb

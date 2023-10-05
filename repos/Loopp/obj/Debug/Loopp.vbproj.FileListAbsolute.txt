@@ -1,0 +1,10 @@
+C:\Users\Inovea\source\repos\Loopp\bin\Debug\Loopp.exe.config
+C:\Users\Inovea\source\repos\Loopp\bin\Debug\Loopp.exe
+C:\Users\Inovea\source\repos\Loopp\bin\Debug\Loopp.pdb
+C:\Users\Inovea\source\repos\Loopp\bin\Debug\Loopp.xml
+C:\Users\Inovea\source\repos\Loopp\obj\Debug\Loopp.Resources.resources
+C:\Users\Inovea\source\repos\Loopp\obj\Debug\Loopp.vbproj.GenerateResource.cache
+C:\Users\Inovea\source\repos\Loopp\obj\Debug\Loopp.vbproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\Loopp\obj\Debug\Loopp.exe
+C:\Users\Inovea\source\repos\Loopp\obj\Debug\Loopp.xml
+C:\Users\Inovea\source\repos\Loopp\obj\Debug\Loopp.pdb

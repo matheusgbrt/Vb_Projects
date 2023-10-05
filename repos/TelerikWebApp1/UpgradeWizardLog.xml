@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Binary References" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Bin\" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Default.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Default.aspx" />
+  <event action="Analyze" type="Success" name="Default.aspx" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Default.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Grid.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Grid.aspx" />
+  <event action="Analyze" type="Success" name="Grid.aspx" path="C:\Users\Inovea\source\repos\TelerikWebApp1\Grid.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\ListView.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\ListView.aspx" />
+  <event action="Analyze" type="Success" name="ListView.aspx" path="C:\Users\Inovea\source\repos\TelerikWebApp1\ListView.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\MasterPage.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\MasterPage.master" />
+  <event action="Analyze" type="Success" name="MasterPage.master" path="C:\Users\Inovea\source\repos\TelerikWebApp1\MasterPage.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\MasterPageSingleMenu.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Inovea\source\repos\TelerikWebApp1\MasterPageSingleMenu.master" />
+  <event action="Analyze" type="Success" name="MasterPageSingleMenu.master" path="C:\Users\Inovea\source\repos\TelerikWebApp1\MasterPageSingleMenu.master" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="C:\Users\Inovea\source\repos\TelerikWebApp1\web.config" />
+  <event action="Analyze" type="Success" name="C:\...\TelerikWebApp1\" path="C:\Users\Inovea\source\repos\TelerikWebApp1" />
+  <event action="Analyze" type="Success" name="TelerikWebApp1" path="C:\Users\Inovea\source\repos\TelerikWebApp1\TelerikWebApp1.sln" />
+</log>

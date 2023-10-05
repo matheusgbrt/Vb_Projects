@@ -1,0 +1,14 @@
+C:\Users\Inovea\source\repos\API_JSON\bin\Debug\API_JSON.exe.config
+C:\Users\Inovea\source\repos\API_JSON\bin\Debug\API_JSON.exe
+C:\Users\Inovea\source\repos\API_JSON\bin\Debug\API_JSON.pdb
+C:\Users\Inovea\source\repos\API_JSON\bin\Debug\API_JSON.xml
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.vbproj.AssemblyReference.cache
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.Resources.resources
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.vbproj.GenerateResource.cache
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.vbproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.exe
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.xml
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.pdb
+C:\Users\Inovea\source\repos\API_JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Inovea\source\repos\API_JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Inovea\source\repos\API_JSON\obj\Debug\API_JSON.vbproj.CopyComplete

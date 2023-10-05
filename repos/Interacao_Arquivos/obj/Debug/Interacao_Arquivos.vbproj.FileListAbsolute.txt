@@ -1,0 +1,11 @@
+C:\Users\Inovea\source\repos\Interacao_Arquivos\bin\Debug\Interacao_Arquivos.exe.config
+C:\Users\Inovea\source\repos\Interacao_Arquivos\bin\Debug\Interacao_Arquivos.exe
+C:\Users\Inovea\source\repos\Interacao_Arquivos\bin\Debug\Interacao_Arquivos.pdb
+C:\Users\Inovea\source\repos\Interacao_Arquivos\bin\Debug\Interacao_Arquivos.xml
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.vbproj.AssemblyReference.cache
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.Resources.resources
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.vbproj.GenerateResource.cache
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.vbproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.exe
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.xml
+C:\Users\Inovea\source\repos\Interacao_Arquivos\obj\Debug\Interacao_Arquivos.pdb
