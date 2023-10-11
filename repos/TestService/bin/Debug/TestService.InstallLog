@@ -1,0 +1,16 @@
+﻿Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.exe
+Instalando o serviço TesteServico...
+Criando a origem de EventLog TesteServico no log Application...
+Revertendo o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.exe
+Restaurando o log de eventos para o estado anterior da origem TesteServico.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.

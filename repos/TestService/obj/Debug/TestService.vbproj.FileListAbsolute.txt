@@ -1,0 +1,13 @@
+C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.exe.config
+C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.exe
+C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.pdb
+C:\Users\Inovea\source\repos\TestService\bin\Debug\TestService.xml
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.vbproj.AssemblyReference.cache
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.Resources.resources
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.vbproj.GenerateResource.cache
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.vbproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.exe
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.xml
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.pdb
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.ProjectInstaller.resources
+C:\Users\Inovea\source\repos\TestService\obj\Debug\TestService.ServicoTeste.resources

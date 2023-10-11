@@ -1,0 +1,10 @@
+C:\Users\Inovea\source\repos\Delete\bin\Release\Delete.exe.config
+C:\Users\Inovea\source\repos\Delete\bin\Release\Delete.exe
+C:\Users\Inovea\source\repos\Delete\bin\Release\Delete.pdb
+C:\Users\Inovea\source\repos\Delete\bin\Release\Delete.xml
+C:\Users\Inovea\source\repos\Delete\obj\Release\Delete.Resources.resources
+C:\Users\Inovea\source\repos\Delete\obj\Release\Delete.vbproj.GenerateResource.cache
+C:\Users\Inovea\source\repos\Delete\obj\Release\Delete.vbproj.CoreCompileInputs.cache
+C:\Users\Inovea\source\repos\Delete\obj\Release\Delete.exe
+C:\Users\Inovea\source\repos\Delete\obj\Release\Delete.xml
+C:\Users\Inovea\source\repos\Delete\obj\Release\Delete.pdb

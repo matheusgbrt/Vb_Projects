@@ -1,0 +1,308 @@
+﻿Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Criando a origem de EventLog TesteServico no log Application...
+Revertendo o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Restaurando o log de eventos para o estado anterior da origem TesteServico.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Ocorreu uma exceção durante a desinstalação do instalador TestService.ProjectInstaller.
+System.ArgumentException: Dicionário savedState contém dados inconsistentes e talvez estejam corrompidos.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Ocorreu uma exceção durante a desinstalação do instalador TestService.ProjectInstaller.
+System.ArgumentException: Dicionário savedState contém dados inconsistentes e talvez estejam corrompidos.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Criando a origem de EventLog TesteServico no log Application...
+Revertendo o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Restaurando o log de eventos para o estado anterior da origem TesteServico.
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TestService.
+Aviso: a origem TestService não está registrada no computador local.
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Criando a origem de EventLog TestService no log TesteEventoServico...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TestService.
+Excluindo o log de eventos TesteEventoServico.
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Criando a origem de EventLog TestService no log TesteEventoServico...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TestService.
+Excluindo o log de eventos TesteEventoServico.
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Instalando o serviço TesteServico...
+Serviço TesteServico foi instalado com êxito.
+Criando a origem de EventLog TesteServico no log Application...
+Criando a origem de EventLog TestService no log TesteEventoServico...
+Confirmando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Desinstalando o assembly 'C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.InstallLog
+   assemblypath = C:\Users\Inovea\source\repos\TestService\bin\Release\TestService.exe
+Removendo a origem do EventLog TestService.
+Excluindo o log de eventos TesteEventoServico.
+Removendo a origem do EventLog TesteServico.
+Serviço TesteServico está sendo removido do sistema...
+Serviço TesteServico foi removido com êxito do sistema.

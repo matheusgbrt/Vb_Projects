@@ -1,0 +1,2 @@
+C:\Users\Inovea\source\repos\Desafio\obj\Debug\Desafio.vbproj.AssemblyReference.cache
+C:\Users\Inovea\source\repos\Desafio\obj\Debug\Desafio.vbproj.CoreCompileInputs.cache

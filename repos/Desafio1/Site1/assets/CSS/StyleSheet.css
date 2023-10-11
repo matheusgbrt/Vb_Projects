@@ -1,0 +1,24 @@
+﻿body {
+}
+.SelectedRow {
+    background-color: #98c231 !important;
+    background-image: none !important;
+    color: black !important;
+    
+}
+.GridView {
+    color: black !important;
+    font-weight: bold !important;
+    font-family: Tahoma,Verdana,sans-serif !important;
+    text-align:center !important;
+    margin-top: 0px;
+}
+.container-md {
+    margin: 3% 3% 3% 3% !important;
+}
+.RadGrid .rgFilterRow input[type=text] .rgFilterRow input[type=checkbox]{
+    display: none;
+}
+navbar navbar-expand-lg {
+    margin-bottom: 20% !important;
+}
